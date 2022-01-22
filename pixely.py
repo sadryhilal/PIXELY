@@ -13,4 +13,4 @@ def pixelate(input_file_path, pixel_size):
 
     image.show()
 
-pixelate("./IMG/aladdin.jpeg",3)
+pixelate("./IMG/Antoine.png",3)
